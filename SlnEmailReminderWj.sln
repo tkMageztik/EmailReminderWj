@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NS.EmailReminderWJ", "NS.EmailReminderWJ\NS.EmailReminderWJ.csproj", "{D841D3C5-0894-4848-BE93-51B82DAA23E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D841D3C5-0894-4848-BE93-51B82DAA23E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D841D3C5-0894-4848-BE93-51B82DAA23E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D841D3C5-0894-4848-BE93-51B82DAA23E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D841D3C5-0894-4848-BE93-51B82DAA23E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F03E2FA-0E49-48B6-A8C0-6F2A2EF0D1FD}
+	EndGlobalSection
+EndGlobal
